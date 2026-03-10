@@ -1,4 +1,4 @@
-# Academic Performance Analyzer 📊
+# Result Analyzer 📊
 
 A comprehensive web application for analyzing student examination results with interactive visualizations and detailed reporting.
 
@@ -150,3 +150,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ If you found this project helpful, please give it a star!
+
