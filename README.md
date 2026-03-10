@@ -28,8 +28,8 @@ _Upload your screenshots here to showcase the application_
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/academic-performance-analyzer.git
-   cd academic-performance-analyzer
+   git clone https://github.com/Pranesh3104/result-analyzer12.git
+   cd result-analyzer
    ```
 
 2. **Create a virtual environment** (recommended)
@@ -150,4 +150,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ If you found this project helpful, please give it a star!
+
 
